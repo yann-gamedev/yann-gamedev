@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Halo, Saya Christian Bagus Prasetya! 👋</h1>
-  <p><b>Computer Science Student | Web & Game Developer | Network & System Enthusiast</b></p>
+  <p><b>Informatics | Software & Game Developer | AI & Tech Enthusiast</b></p>
   
   <!-- Social Badges -->
   <p>
@@ -21,8 +21,7 @@
 
 ---
 
-### 🚀 Tentang Saya
+### Tentang Saya
 
-- 🎓 Mahasiswa Ilmu Komputer yang antusias mengeksplorasi pengembangan perangkat lunak dan infrastruktur jaringan.
-- 🎮 Berfokus pada **Web Development**, **Game Development**, serta **System & Network Administration**.
-- 🌱
+- Mahasiswa Informatika yang antusias mengeksplorasi pengembangan perangkat lunak dan infrastruktur jaringan.
+- Berfokus pada **Software Development**, dan **Game Development**, serta memiliki kemampuan dalam **System & Network Administration**.
